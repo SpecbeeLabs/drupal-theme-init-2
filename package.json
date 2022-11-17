@@ -1,0 +1,19 @@
+{
+  "name": "drupal-theme-init-2",
+  "version": "1.0.0",
+  "description": "Custom generator to initialize a Drupal theme. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "husky": "^8.0.2",
+    "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "yeoman-generator": "^5.7.0"
+  }
+}
