@@ -1,0 +1,11 @@
+{
+  "name": "<%= themeName %>",
+  "version": "1.0.0",
+  "scripts": {
+
+  },
+  "browserslist": [
+    "last 2 versions",
+    "not dead"
+  ]
+}
